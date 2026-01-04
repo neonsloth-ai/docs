@@ -205,8 +205,7 @@ Ballad | Piano Prelude, Verse, Chorus, Verse, Emotional Bridge, Final Chorus, So
 | Latin | Percussion Lead-In, Verse, Chorus, Dance Groove, Call-and-Response Section, Final Refrain |
 | Latin Jazz | Groove Section, Verse, Chorus, Latin Instrumental Solo, Final Refrain, Smooth Fade-Out |
 | Latin Pop | Beat Drop Intro, Verse, Chorus, Percussion Breakdown, Final Chorus, Smooth Fade-Out |
-| | Riff-Based Opening, Verse, Chorus, Guitar Solo, Final Chorus, Big Finish |
-
+| Riff-Based Opening, Verse, Chorus, Guitar Solo, Final Chorus, Big Finish |
 | Lo-fi | Vinyl Crackle Intro, Verse, Chorus, Lo-Fi Breakdown, Final Refrain, Smooth Fade-Out |
 | Lounge | Soft Jazz Intro, Verse, Chorus, Instrumental Bridge, Final Refrain, Smooth Fade-Out |
 | Lounge Singer | Piano Prelude, Verse, Chorus, Melodic Breakdown, Final Refrain, Grand Finale |
